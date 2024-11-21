@@ -58,8 +58,7 @@ params:
               url: projects/
             - name: Data
               url: https://github.com/jia-jiang
-          additionalContent: |
-            <img src="https://jia-jiang.github.io/Summary.jpg" alt="Summary" style="max-width:100%; height:auto; margin-top:20px;">
+          additionalContent: "Summary.jpg"
 
     socialIcons:
         #- name: Email
