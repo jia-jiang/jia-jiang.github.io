@@ -58,9 +58,7 @@ params:
               url: projects/
             #- name: Data
             #  url: https://github.com/jia-jiang
-          imageUrl: "summary.jpg"
-          imageWidth: 320
-          imageHeight: 320
+          image: "summary.jpg"
 
     socialIcons:
         - name: Email
