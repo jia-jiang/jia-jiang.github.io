@@ -57,15 +57,15 @@ params:
             - name: Projects
               url: projects/
             - name: Data
-              url: data/
+              url: https://github.com/jia-jiang
           additionalContent: |
             <img src="https://jia-jiang.github.io/Summary.jpg" alt="Summary" style="max-width:100%; height:auto; margin-top:20px;">
 
     socialIcons:
         #- name: Email
         #  url: jiajiang@mit.edu
-        - name: GitHub
-          url: https://github.com/jia-jiang
+        #- name: GitHub
+        #  url: https://github.com/jia-jiang
 
     assets:
         disableScrollBarStyle: true
