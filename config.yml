@@ -69,8 +69,11 @@ params:
     assets:
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
-        hiddenInSingle: true
+        #hiddenInList: false
+        #hiddenInSingle: true
+        image: "Summary.png"
+        alt: "Summary"
+        relative: false    
     label:
       text: "Jia Jiang"
       icon: favicon.ico
