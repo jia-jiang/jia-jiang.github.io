@@ -16,9 +16,9 @@ menu:
         - name: Projects
           url: projects/
           weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
+        #- name: Data
+        #  url: data/
+        #  weight: 3 
 
 params:
     description: "Hi there! I'm Jia Jiang, a postdoctoral researcher at MIT Kroll Lab. I’m passionate about atmospheric chemistry—working on developing chemical mechanisms, regional air quality modeling, and environmental justice. I love finding ways to turn academic research into real-world environmental solutions."
@@ -36,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["cv","projects","data"]
+    MainSections: ["cv","projects"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,10 +60,10 @@ params:
               url: https://github.com/jia-jiang
 
     socialIcons:
-        #- name: Email
-        #  url: jiajiang@mit.edu
-        #- name: GitHub
-        #  url: https://github.com/jia-jiang
+        - name: Email
+          url: jiajiang@mit.edu
+        - name: GitHub
+          url: https://github.com/jia-jiang
 
     assets:
         disableScrollBarStyle: true
@@ -71,6 +71,9 @@ params:
     cover:
         hiddenInList: false
         hiddenInSingle: true 
+        image: "/summary.jpg"
+        alt: "overview diagram"
+        relative: false
          
     label:
       text: "Jia Jiang"
