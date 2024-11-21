@@ -71,9 +71,10 @@ params:
     cover:
         #hiddenInList: false
         #hiddenInSingle: true
-        image: "Summary.png"
+        imageUrl: "https://jia-jiang.github.io/Summary.jpg"
         alt: "Summary"
-        relative: false    
+        relative: false   
+         
     label:
       text: "Jia Jiang"
       icon: favicon.ico
