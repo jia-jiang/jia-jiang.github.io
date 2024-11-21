@@ -58,7 +58,6 @@ params:
               url: projects/
             - name: Data
               url: https://github.com/jia-jiang
-    image: "Summary.jpg"
 
     socialIcons:
         #- name: Email
@@ -68,12 +67,10 @@ params:
 
     assets:
         disableScrollBarStyle: true
+        
     cover:
-        #hiddenInList: false
-        #hiddenInSingle: true
-        imageUrl: "https://jia-jiang.github.io/Summary.jpg"
-        alt: "Summary"
-        relative: false   
+        hiddenInList: false
+        hiddenInSingle: true 
          
     label:
       text: "Jia Jiang"
