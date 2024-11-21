@@ -59,7 +59,7 @@ params:
             - name: Data
               url: data/
     additionalContent: |
-            <img src="https://jia-jiang.github.io/Summary.jpg" alt="Summary Image" style="max-width:100%; height:auto; margin-top:20px;">
+            <img src="Summary.jpg" alt="Summary Image" style="max-width:100%; height:auto; margin-top:20px;">
 
     socialIcons:
         #- name: Email
