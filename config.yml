@@ -56,8 +56,11 @@ params:
               url: Jia_Resume.pdf
             - name: Projects
               url: projects/
-            - name: Data
-              url: https://github.com/jia-jiang
+            #- name: Data
+            #  url: https://github.com/jia-jiang
+          imageUrl: "summary.jpg"
+          imageWidth: 320
+          imageHeight: 320
 
     socialIcons:
         - name: Email
@@ -71,9 +74,6 @@ params:
     cover:
         hiddenInList: false
         hiddenInSingle: false 
-        image: "/summary.jpg"
-        alt: "overview diagram"
-        relative: false
          
     label:
       text: "Jia Jiang"
