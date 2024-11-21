@@ -70,7 +70,7 @@ params:
         
     cover:
         hiddenInList: false
-        hiddenInSingle: true 
+        hiddenInSingle: false 
         image: "/summary.jpg"
         alt: "overview diagram"
         relative: false
