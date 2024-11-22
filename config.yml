@@ -21,7 +21,7 @@ menu:
         #  weight: 3 
 
 params:
-    description: "Hi there! I'm Jia Jiang, a postdoctoral researcher at <a href="https://krollgroup.mit.edu/" class="underlined">MIT Kroll Lab</a>. I’m passionate about atmospheric chemistry—working on developing chemical mechanisms, regional air quality modeling, and environmental justice. I love finding ways to turn academic research into real-world environmental solutions."
+    description: "Hi there! I'm Jia Jiang, a postdoctoral researcher at [MIT Kroll Lab.](https://krollgroup.mit.edu/) I’m passionate about atmospheric chemistry—working on developing chemical mechanisms, regional air quality modeling, and environmental justice. I love finding ways to turn academic research into real-world environmental solutions."
     author: Jia Jiang
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2007"
@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Jia Jiang
-          subtitle: "Hi there! I'm Jia Jiang, a postdoctoral researcher at <a href="https://krollgroup.mit.edu/" class="underlined">MIT Kroll Lab</a>. I’m passionate about atmospheric chemistry—working on developing chemical mechanisms, regional air quality modeling, and environmental justice. I love finding ways to turn academic research into real-world environmental solutions."
+          subtitle: "Hi there! I'm Jia Jiang, a postdoctoral researcher at [MIT Kroll Lab.](https://krollgroup.mit.edu/) I’m passionate about atmospheric chemistry—working on developing chemical mechanisms, regional air quality modeling, and environmental justice. I love finding ways to turn academic research into real-world environmental solutions."
           imageUrl: "photo.jpg"
           imageWidth: 160
           imageHeight: 160
