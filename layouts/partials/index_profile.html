@@ -56,8 +56,6 @@
 
         <div class="post-content">
             {{ readFile "research_interests.md" | markdownify }}
-            <img style="float:left; margin-right: 1em; margin-bottom: 1em; border-radius: 4px" width=200 src="{{ index .enclosure 0 `-url`}}"/>
-            {{ index .encoded  | safeHTML }}
         </div>
 
 
