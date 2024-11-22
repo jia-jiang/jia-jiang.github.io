@@ -53,12 +53,11 @@
             {{- end }}
         </div>
         {{- end }}
-
-        <div class="post-content">
-        {{ readFile "research_interests.md" | markdownify }}
-        </div>
-
-
     </div>
+
+    <div class="post-content">
+    {{ readFile "research_interests.md" | markdownify }}
+    </div>
+    
     {{- end}}
 </div>
