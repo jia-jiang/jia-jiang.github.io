@@ -21,6 +21,10 @@
     border-radius: 50%;
 }
 
+.profile post-content img {
+    display: inline-table;
+}
+
 .buttons {
     flex-wrap: wrap;
     margin: 0 auto;
