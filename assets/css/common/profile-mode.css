@@ -16,7 +16,7 @@
     font-size: 40px;
 }
 
-.profile img {
+.profile profile_inner img {
     display: inline-table;
     border-radius: 50%;
 }
