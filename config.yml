@@ -48,7 +48,7 @@ params:
           enabled: true
           title: Jia Jiang
           subtitle: "Hi there! I'm Jia Jiang, a postdoctoral researcher at [MIT Kroll Lab.](https://krollgroup.mit.edu/) I’m passionate about atmospheric chemistry—working on developing chemical mechanisms, regional air quality modeling, and environmental justice. I love finding ways to turn academic research into real-world environmental solutions."
-          imageUrl: "photo_jj.jpg"
+          imageUrl: "Photo-Jia Jiang-Small.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
