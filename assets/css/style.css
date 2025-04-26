@@ -85,7 +85,8 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  /* color: #00796b; */
+  color: #1A3A6F;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +117,8 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  /* color: #00796b; */
+  color: #1A3A6F;
   background-color: white;
 }
 /* main body */
@@ -140,7 +142,8 @@ body {
 } */
 
 a {
-  color: #004d40;
+  /* color: #004d40;*/
+  color: #102446;
 }
 
 /* main blockqoute */
