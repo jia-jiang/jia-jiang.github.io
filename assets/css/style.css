@@ -11,7 +11,8 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  /* border: 6px solid rgba(0, 77, 64, 0.4); */
+  border: 6px solid rgba(47, 82, 87, 0.4);
   border-radius: 50% !important;
 }
 
@@ -240,7 +241,8 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  /* color: rgb(16, 202, 56); */
+  color: rgb(55, 67, 89);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -323,7 +325,8 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  /* background: #a7ffeb repeat; */
+  background: #8cbce5 repeat;
   position: relative;
 }
 
@@ -347,7 +350,7 @@ h3 {
   /* font-weight: 400; */
   line-height: 150%;
   /* padding: 0 0px; */
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
 }
 
 #intro.section .underline {
@@ -359,7 +362,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 100%;
   left: 0;
   position: absolute;
@@ -370,7 +373,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+  background-color: rgba(90, 150, 243, 0.2);
 }
 
 .card {
@@ -476,7 +479,8 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  /* border-bottom: 3px solid #004d40 !important; */
+  border-bottom: 3px solid #295aad !important;
 }
 
 #skills .card.large {
@@ -552,7 +556,8 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  /* color: #008073 !important; */
+  color: #1a3a6f !important;
 }
 
 /* .teal-text {
@@ -605,7 +610,8 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    /* color: #009688; */
+    color: #295aad;
     height: 56px;
     line-height: 56px;
   }
