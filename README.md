@@ -1,5 +1,5 @@
 # Personal Portfolio ⚡️ 
-> Portfolio template: varadbhogayata/varadbhogayata.github.io
+> Portfolio template: https://github.com/varadbhogayata/varadbhogayata.github.io
 
 ## Features 📋
 ⚡️ Fully Responsive\
