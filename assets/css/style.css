@@ -436,6 +436,28 @@ h3 {
   font-size: 85%;
   color: #666;
 }
+/* Added by Jia */
+.card-reveal {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  height: 100%;
+}
+/*start*/
+
+.card-action {
+  flex-shrink: 0;
+  border-top: 1px solid #ddd;
+  padding: 10px; !important;
+  background-color: #f9f9f9;
+}
+/*end*/
+
+.card-reveal-content {
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: 30%;
+}
 
 .card ul {
   margin-bottom: 0;
@@ -525,8 +547,8 @@ a.hoverline:hover {
   height: 240px;
 }
 
-.card-action a.btn-floating {
-  margin-bottom: 0;
+.card-reveal {
+  padding-top: 300px; /* Adds space at the bottom */
 }
 
 #contact a:not(.btn-floating) {
