@@ -3,7 +3,6 @@ title: "Publication"
 description: ""
 ---
 
-## Publications
 
 ### Manuscripts in Progress or Under Review
  * **Jiang, J.**, Franco L., Helstrom E., Pye H., Skipper T.N., Schwantes R., Kroll J., Framework of Chemical Assessment for Mechanism Evaluation and Optimization (CAMEO).
