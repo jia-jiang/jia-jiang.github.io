@@ -9,6 +9,11 @@ My expertise lies in chemical mechanism development, air quality modeling, and d
 
 My goal is to improve our ability to predict, assess, and mitigate the impacts of wildfire smoke using science-based, scalable tools. I aim to connect advanced chemical modeling with real-world decision-making, supporting faster, more targeted responses to wildfire events in a changing climate.
 
+### Education
+ * 2021, Ph.D. in Chemical and Environmental Engineering, University of California, Riverside 
+ * 2014, M.E. in Geological Engineering, Zhejiang University
+ * 2011, B.S. in Atmospheric Science, Zhejiang University
+
 ### Skills
  * Atmospheric Modeling: WRF, AERMOD, UCD/CIT, F0AM
  * Chemical Mechanism Development: SAPRC, MechGen, CMAQ
