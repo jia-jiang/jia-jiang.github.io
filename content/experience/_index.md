@@ -38,6 +38,6 @@ description: ""
  * Classified Pacific tropical cyclones based on formation patterns using large-scale circulation and gridded datasets.
  * Leveraged gridded meteorological datasets and satellite products to trace the evolution of initial disturbances into tropical cyclones.
  * Used WRF, satellite, and in situ data to study terrain impacts on mesoscale precipitation and wind systems.
- * Applied data assimilation techniques to enhance model inputs and produce more accurate.
+ * Applied data assimilation techniques to enhance model inputs and produce more accurate predictions.
 ### Teaching Assistant
  * Delivered lectures twice a week and hands-on WRF model labs for the course “Numerical Weather Forecast” (~20 students).
