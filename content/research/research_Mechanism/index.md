@@ -1,13 +1,13 @@
 ---
-title: "Development of Chemical Mechanisms for Wildfires Precursors" 
-date: 2022-12-31
+title: "Development of Chemical Mechanisms for Wildfire Precursors" 
+date: 2025-04-12
 #lastmod: 2025-06-19
 #lastmod: 2025-06-19
-tags: ["Chemical Mechanism Development", "MechGen", "Wildfire", "SOA"]
+tags: ["Chemical Mechanism Development", "MechGen", "Wildfire"]
 author: ["Jia Jiang"]
 summary: "New chemical mechanisms for wildfire-derived VOCs were developed and evaluated using the SAPRC modeling system. This work also marked the first use of MechGen to connect gas-phase chemistry with SOA formation, advancing air quality modeling of wildfire emissions."
 cover:
-    image: "bias.png"
+    image: "reaction.png"
     alt: "Furan Model Bias"
     relative: false
 editPost:
@@ -17,6 +17,9 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+
+## Timeline
+Jan 2017 - Present
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Orographic Effects for Mesoscale Weather Systems" 
 date: 2014-06-10
 #lastmod: 2025-06-19
-tags: ["Atmospheric Dynamics", "Meteorology"]
+tags: ["Atmospheric Dynamics and Climate Risk"]
 author: ["Jia Jiang"]
 summary: "Severe convective events are closely linked to the region’s complex terrain and land-sea interactions. Analysis and WRF simulations show that coastal mountains and latent heat release play key roles in triggering and sustaining convection."
 cover:
@@ -16,6 +16,9 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+
+## Timeline
+Sep 2011 - Jun 2014
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Genesis Study of Tropical Cyclones over the Pacific Ocean" 
 date: 2017-06-10
 #lastmod: 2025-06-19
-tags: ["Atmospheric Dynamics", "Meteorology"]
+tags: ["Atmospheric Dynamics and Climate Risk"]
 author: ["Jia Jiang"]
 summary: "This project analyzes tropical cyclone formation and extratropical transition over the western North Pacific, showing that strong storms are more likely to undergo ET and that upper-level cold vortices and the subtropical high play key roles in both processes."
 cover:
@@ -16,6 +16,9 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+
+## Timeline
+Sep 2011 - Jun 2014
 
 ---
 

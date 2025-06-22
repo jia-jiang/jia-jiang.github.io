@@ -1,8 +1,8 @@
 ---
 title: "Mechanistic Studies of SOA Production from Wildfire Precursors" 
-date: 2022-03-09
+date: 2024-03-09
 #lastmod: 2025-06-19
-tags: ["Chemical Mechanism Development", "MechGen", "Wildfire", "SOA"]
+tags: ["Chemical Mechanism Development", "MechGen", "Wildfire"]
 author: ["Jia Jiang"]
 summary: "Chamber-derived secondary organic aerosol (SOA) yields from camphene are reported here for the first time. The influence of peroxy radicals (RO2) was investigated using chemically detailed box models. Notably, this study is the first to show that low concentrations of NO can enhance the formation of oxygenated organic molecules (HOMs) in the atmosphere."
 cover:
@@ -16,6 +16,9 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+
+## Timeline
+Nov 2020 - Dec 2021
 
 ---
 

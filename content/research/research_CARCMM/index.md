@@ -1,8 +1,8 @@
 ---
 title: "Evaluation and Refinement of the CARCMM Monoterpene Mechanism" 
-date: 2025-06-19
+date: 2025-06-18
 #lastmod: 2025-06-19
-tags: ["Chemical Mechanism Development", "MechGen", "Wildfire", "SOA"]
+tags: ["Chemical Mechanism Development", "MechGen", "Wildfire"]
 author: ["Jia Jiang"]
 summary: "The Community Regional Atmospheric Chemistry Multiphase Mechanism (CRACMM) is a state-of-the-science chemical mechanism developed by the U.S. EPA for the Community Multiscale Air Quality Modeling System (CMAQ). This project aims to evaluate the accuracy of monoterpene chemistry representation in CRACMM using advanced mass spectrometry data, with a focus on detailed gas- and particle-phase products."
 #cover:
@@ -16,6 +16,9 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+
+## Timeline
+Feb 2024 - Present
 
 ---
 

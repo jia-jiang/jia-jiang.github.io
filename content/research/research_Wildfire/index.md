@@ -1,8 +1,8 @@
 ---
 title: "Assessing Wildfire Smoke Exposure Risks in Wine Vineyards" 
-date: 2024-01-19
+date: 2025-06-12
 #lastmod: 2025-03-15
-tags: ["Air Quality Modeling", "Wildfire", "Machine Learning", "Public Health", "Environmental Justice"]
+tags: ["Air Pollution Exposure Modeling", "Wildfire", "Machine Learning"]
 author: ["Jia Jiang"]
 summary: "This project aims to improve chemical transport model predictions of wildfire smoke exposure by enhancing emissions inventories, updating chemical mechanisms, and applying machine learning–based data fusion."
 cover:
@@ -16,6 +16,10 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+
+
+## Timeline
+Jan 2022 - Present
 
 ---
 

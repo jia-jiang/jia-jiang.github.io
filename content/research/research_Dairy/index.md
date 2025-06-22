@@ -1,8 +1,8 @@
 ---
 title: "Long-Term Environmental Impacts Under the Manure Management Program" 
-date: 2024-08-15
+date: 2023-12-15
 #lastmod: 2025-06-19
-tags: ["Air Quality Modeling", "GHG Mitigation", "Public Health", "Environmental Justice"]
+tags: ["Air Pollution Exposure Modeling"]
 author: ["Jia Jiang"]
 summary: "Anaerobic digesters on California dairy farms can significantly reduce methane emissions with minimal impact on air quality. Modeling for the year 2050 in the San Joaquin Valley shows slight changes in PM2.5 and ozone levels, negligible health risks, and no effect on environmental justice disparities, supporting digesters as a low-risk GHG reduction strategy."
 cover:
@@ -16,6 +16,9 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+
+## Timeline
+Jan 2022 - Dec 2023
 
 ---
 
