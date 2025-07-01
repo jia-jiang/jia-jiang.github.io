@@ -4,9 +4,9 @@ description: "Projects"
 ---
 
 ## General Research Interests
- * Chemical mechanism development
- * Ozone and secondary organic aerosol (SOA) formation
- * Wildfire emissions and exposure risk assessment
+ * Air Pollution Exposure Modeling (Wildfires)
+ * Atmospheric Chemical Mechanism Development
+ * Atmospheric Dynamics and Climate Risk
 
 
 ## Research Projects
