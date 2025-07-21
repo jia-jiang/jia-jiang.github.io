@@ -82,7 +82,7 @@ params:
         - name: LinkedIn
           url: https://www.linkedin.com/in/jia-jiang/   
         - name: CV
-          url: JiaJiang_CV_2025.pdf
+          url: JiaJiang_CV.pdf
 
     assets:
         disableScrollBarStyle: true
