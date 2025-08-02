@@ -5,8 +5,8 @@ description: ""
 
 ## Massachusetts Institute of Technology (Feb 2024 - Present)
 ### Postdoctoral Associate 
-Bridge laboratory research and atmospheric modeling through the development of open-source tools that streamline the integration of oxidation chemistry data into regulatory air quality models.
-* Designed a scalable ETL pipeline and relational database architecture to convert high-resolution lab measurements into mechanism-ready formats in CMAQ.
+Bridge laboratory research and atmospheric modeling through the development of open-source tools that streamline the integration of oxidation chemistry data into regulatory air quality mechanisms.
+* Designed a scalable ETL pipeline and relational database architecture to convert high-resolution lab measurements into mechanism-ready formats in CMAQ CRACMM.
 * Created a modular Python/SQLite toolkit to support mechanism developers, facilitating data-driven updates to models.
 
 ## University of California, Davis (Jan 2022 - Dec 2023)
