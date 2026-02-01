@@ -36,8 +36,7 @@ This work advances our understanding of wildfire VOC chemistry and helps close g
 ---
 
 ## Publication
- * **Jiang, J.**, Shahid S.B., Zhang Y. Y., Cocker III, D.R. and Barsanti, K.C., 2025. Evaluation of A New Gas-Phase Mechanism of Phenolic Compounds under Atmospheric Relevant Conditions. (in preposition)
- * Carter, W.P., **Jiang, J.**, Wang, Z. and Barsanti, K.C., 2025. The SAPRC Atmospheric Chemical Mechanism Generation System (MechGen). *Geoscientific Model Development* (under review). [**Link**](https://doi.org/10.5194/egusphere-2025-1183)
+ * Carter, W.P., **Jiang, J.**, Wang, Z. and Barsanti, K.C., 2025. The SAPRC Atmospheric Chemical Mechanism Generation System (MechGen). *Geoscientific Model Development*, 18(21), pp.8461-8483. [**Link**](https://doi.org/10.5194/gmd-18-8461-2025)
  * Carter, W.P., **Jiang, J.**, Orlando, J.J. and Barsanti, K.C., 2025. Derivation of atmospheric reaction mechanisms for volatile organic compounds by the SAPRC mechanism generation system (MechGen). *Atmospheric Chemistry and Physics*, 25(1), pp.199-242. [**Link**](https://doi.org/10.5194/acp-25-199-2025)
  * Li, Q., **Jiang, J.(co-first)**, Afreh, I.K., Barsanti, K.C. and Cocker III, D.R., 2022. Secondary Organic Aerosol Formation from Camphene Oxidation: Measurements and Modeling. *Atmospheric Chemistry and Physics*, 22(5), pp.3131-3147. [**Link**](https://doi.org/10.5194/acp-22-3131-2022)
 * Meehan-Atrash, J., Luo, W., McWhirter, K.J., Dennis, D.G., Sarlah, D., Jensen, R.P., Afreh, I., **Jiang, J.**, Barsanti, K.C., Ortiz, A. and Strongin, R.M., 2021. The Influence of Terpenes on the Release of Volatile Organic Compounds and Active Ingredients to Cannabis Vaping Aerosols. *RSC advances*, 11(19), pp.11714-11723. [**Link**](https://doi.org/10.1039/D1RA00934F)

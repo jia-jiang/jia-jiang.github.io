@@ -5,10 +5,10 @@ date: 2025-06-19
 tags: ["Chemical Mechanism Development", "Data Infrastructure"]
 author: ["Jia Jiang"]
 summary: "CAMEO framework provides a unified database that integrates experimental observations, box model outputs, and detailed mechanistic information. Its querying functions and interactive visualization tools enable transparent and comprehensive comparisons between laboratory data and model predictions."
-#cover:
-    #image: "personalization_basic.png"
-    #alt: "The idea of personalization and learning"
-    #relative: false
+cover:
+    image: "cameo.png"
+    alt: "CAMEO Framework"
+    relative: false
 editPost:
     #URL: ""
     Text: "Funded by EPA"
@@ -36,4 +36,6 @@ CAMEO streamlines the process of connecting laboratory data with modeled species
 ---
 
 ## Presentation
+ * **Jiang, J.**, et al., Dec 2025, Linking Laboratory Observations to Chemical Mechanisms: A Framework for VOC Oxidation Evaluation, *American Geophysical Union (AGU) 2025 Annual Meeting*.
+ * **Jiang, J.**, et al., Oct 2025, Systematic Integration of Laboratory Insights into Chemical Mechanisms Development for SOA Formation, *American Association for Aerosol Research (AAAR) 43rd Annual Conference*.
  * **Jiang, J.**, et al., Dec 2024, A Framework for Integrating Laboratory Data into Chemical Mechanism Development, *Atmospheric Chemical Mechanisms Conference 2024*.

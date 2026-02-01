@@ -5,11 +5,10 @@ description: ""
 
 
 ### Manuscripts in Progress or Under Review
- * **Jiang, J.**, Franco L., Helstrom E., Pye H., Skipper T.N., Schwantes R., Kroll J., Framework of Chemical Assessment for Mechanism Evaluation and Optimization (CAMEO).
- * **Jiang, J.**, Shahid S.B., Zhang Y. Y., Cocker III, D.R. and Barsanti, K.C., 2025. Evaluation of A New Gas-Phase Mechanism of Phenolic Compounds under Atmospheric Relevant Conditions.
- * Carter, W.P., **Jiang, J.**, Wang, Z. and Barsanti, K.C., 2025. The SAPRC Atmospheric Chemical Mechanism Generation System (MechGen). *Geoscientific Model Development* (under review). [**Link**](https://doi.org/10.5194/egusphere-2025-1183)
+ * **Jiang, J.**, Franco L., Helstrom E., Framework of Chemical Assessment for Mechanism Evaluation and Optimization (CAMEO).
 
 ### Peer-reviewed Journal Articles
+ * Carter, W.P., **Jiang, J.**, Wang, Z. and Barsanti, K.C., 2025. The SAPRC Atmospheric Chemical Mechanism Generation System (MechGen). *Geoscientific Model Development*, 18(21), pp.8461-8483. [**Link**](https://doi.org/10.5194/gmd-18-8461-2025)
  * Carter, W.P., **Jiang, J.**, Orlando, J.J. and Barsanti, K.C., 2025. Derivation of atmospheric reaction mechanisms for volatile organic compounds by the SAPRC mechanism generation system (MechGen). *Atmospheric Chemistry and Physics*, 25(1), pp.199-242. [**Link**](https://doi.org/10.5194/acp-25-199-2025)
  * **Jiang, J.**, Li, Y. and Kleeman, M., 2024. Air quality and public health effects of dairy digesters in California. *Atmospheric Environment*, 331, p.120588. [**Link**](https://doi.org/10.1016/j.atmosenv.2024.120588)
  * Li, Q., **Jiang, J.(co-first)**, Afreh, I.K., Barsanti, K.C. and Cocker III, D.R., 2022. Secondary Organic Aerosol Formation from Camphene Oxidation: Measurements and Modeling. *Atmospheric Chemistry and Physics*, 22(5), pp.3131-3147. [**Link**](https://doi.org/10.5194/acp-22-3131-2022)
