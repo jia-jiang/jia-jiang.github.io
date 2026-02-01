@@ -18,6 +18,8 @@ description: ""
  * **Jiang, J.**, Zhu, P.J., and Jiang, J., 2016. The Formation and Structure Evolution of Initial Disturbance of Typhoon Fung-Wong (2008). *Journal of Tropical Meteorology*, 22(1), pp.1-10.. [**Link**](https://jtm.itmm.org.cn/article/doi/10.16555/j.1006-8775.2016.01.001)
 
 ### Selected Presentations
+ * **Jiang, J.**, et al., Dec 2025, Linking Laboratory Observations to Chemical Mechanisms: A Framework for VOC Oxidation Evaluation, *American Geophysical Union (AGU) 2025 Annual Meeting*.
+ * **Jiang, J.**, et al., Oct 2025, Systematic Integration of Laboratory Insights into Chemical Mechanisms Development for SOA Formation, *American Association for Aerosol Research (AAAR) 43rd Annual Conference*.
  * **Jiang, J.**, et al., Dec 2024, A Systematic Comparison Between Laboratory Measurements and Mechanistic Modeling of VOC Oxidation Reactions, *American Geophysical Union (AGU) 2024 Annual Meeting*.
  * **Jiang, J.**, et al., Dec 2024, A Framework for Integrating Laboratory Data into Chemical Mechanism Development, *Atmospheric Chemical Mechanisms Conference 2024*.
  * **Jiang, J.**, et al., Oct 2024, Modeling SOA Formation from Phenols Using an Updated Gas-Phase Mechanism and Revised SOA Parameters, *American Association for Aerosol Research (AAAR) 42nd Annual Conference*.
