@@ -59,7 +59,7 @@ params:
           enabled: true
           title: Jia Jiang
           subtitle: "(she/her)<br><br>I’m an atmospheric modeler and postdoctoral researcher at the Massachusetts Institute of Technology (MIT), specializing in wildfire emissions, atmospheric chemistry, and air quality modeling."
-          imageUrl: "JiaJiang.jpg"
+          imageUrl: "Jia-Jiang.jpg"
           imageWidth: 200
           imageHeight: 200
           buttons:
